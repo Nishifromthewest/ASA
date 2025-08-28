@@ -1,53 +1,57 @@
 # Website ASA - React.js Project
 
-This project was created as a React.js development environment.
+🌸 **ASA Antwerpen** - Asian Student Association Website
 
-## Prerequisites
+Dit project is een React-gebaseerde website voor ASA Antwerpen, ontworpen om studenten te verbinden en evenementen, teaminformatie, en galerijen te presenteren.
 
-Before you can run this project, you need to have Node.js installed on your system.
+---
 
-### Installing Node.js on Windows
+## 📋 Vereisten
 
-1. Visit [nodejs.org](https://nodejs.org/)
-2. Download the LTS (Long Term Support) version for Windows
-3. Run the installer and follow the installation wizard
-4. Restart your terminal/command prompt after installation
+Voordat je dit project kunt uitvoeren, moet Node.js op je systeem geïnstalleerd zijn.
 
-### Verifying Installation
+### Node.js installeren op Windows
+1. Ga naar [nodejs.org](https://nodejs.org).
+2. Download de LTS (Long Term Support) versie voor Windows.
+3. Voer het installatieprogramma uit en volg de installatiewizard.
+4. Herstart je terminal/command prompt na de installatie.
 
-After installing Node.js, you can verify the installation by running:
+### Installatie Verifiëren
+Na het installeren van Node.js kun je de installatie verifiëren door het volgende uit te voeren:
+
 ```bash
 node --version
 npm --version
 ```
 
-## Getting Started
+## Aan de Slag
 
-Once Node.js is installed, you can set up and run this React application:
+Zodra Node.js is geïnstalleerd, kun je deze React-applicatie instellen en uitvoeren:
 
-### Install Dependencies
+### Afhankelijkheden Installeren
 ```bash
 npm install
 ```
 
-### Start Development Server
+### Ontwikkelserver Starten
 ```bash
 npm start
 ```
 
-This will start the development server and open your React app in the browser at [http://localhost:3000](http://localhost:3000).
 
-### Available Scripts
+Dit start de ontwikkelserver en opent je React-applicatie in de browser op http://localhost:3000
+.
 
-In the project directory, you can run:
+## Beschikbare Scripts
 
-- `npm start` - Runs the app in development mode
-- `npm test` - Launches the test runner
-- `npm run build` - Builds the app for production
-- `npm run eject` - Ejects from Create React App (one-way operation)
+In de projectmap kun je de volgende scripts uitvoeren:
 
-## Project Structure
+- `npm start` - Start de app in ontwikkelmodus
+- `npm test` - Start de testrunner
+- `npm run build` - Bouwt de app voor productie
+- `npm run eject` - Haalt de Create React App-configuratie eruit (onomkeerbare actie)
 
+## Projectstructuur
 ```
 website-asa/
 ├── public/
@@ -63,9 +67,9 @@ website-asa/
 └── README.md
 ```
 
-## Next Steps
+## Volgende Stappen
 
-1. Install Node.js if you haven't already
-2. Run `npm install` to install dependencies
-3. Run `npm start` to start developing
-4. Edit files in the `src/` directory to build your application
+- Installeer Node.js als je dat nog niet hebt gedaan
+- Voer `npm install` uit om afhankelijkheden te installeren
+- Voer `npm start` uit om te beginnen met ontwikkelen
+- Bewerk bestanden in de `src/` map om je applicatie te bouwen
