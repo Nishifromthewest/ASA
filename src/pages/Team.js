@@ -11,27 +11,53 @@ function Team() {
           <div className="team-grid">
             <div className="team-member">
               <h4>President</h4>
-              <p>Lucas Yang</p>
+              <p>Mobina</p>
             </div>
             <div className="team-member">
               <h4>Vice-President</h4>
-              <p>Viktor Vanelderen</p>
+              <p>William Saeys</p>
+            </div>
+            <div className="team-member">
+              <h4>Finance Manager</h4>
+              <p>Nischal Chitrakar</p>
             </div>
             <div className="team-member">
               <h4>Events Manager</h4>
-              <p>Dany Ye</p>
+              <p>Anis Dhewaju</p>
             </div>
             <div className="team-member">
               <h4>HR Manager</h4>
-              <p>Hanlin Lou</p>
-            </div>
-            <div className="team-member">
-              <h4>Logistics Manager</h4>
-              <p>Kang Jun Zhao</p>
+              <p>Michelle</p>
             </div>
             <div className="team-member">
               <h4>Marketing Manager</h4>
-              <p>Wendy Yang</p>
+              <p>Daniel Sie</p>
+              
+            </div>
+            <div className="team-member">
+              <h4>President</h4>
+              <p>Mobina</p>
+            </div>
+            <div className="team-member">
+              <h4>Vice-President</h4>
+              <p>William Saeys</p>
+            </div>
+            <div className="team-member">
+              <h4>Finance Manager</h4>
+              <p>Nischal Chitrakar</p>
+            </div>
+            <div className="team-member">
+              <h4>Events Manager</h4>
+              <p>Anis Dhewaju</p>
+            </div>
+            <div className="team-member">
+              <h4>HR Manager</h4>
+              <p>Michelle</p>
+            </div>
+            <div className="team-member">
+              <h4>Marketing Manager</h4>
+              <p>Daniel Sie</p>
+              
             </div>
           </div>
         </div>
