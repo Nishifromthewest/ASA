@@ -13,11 +13,11 @@ function Header() {
       {/* Logo Box */}
       <div className="logo-box">
         <Link to="/" aria-label="Go to Home">
-          <img src="/images/logo.png" alt="ASA Logo" className="logo" />
+          <img src="..//logo.png" alt="ASA Logo" className="logo" />
         </Link>
       </div>
 
-      <h1>🌸 ASA Antwerpen</h1>
+      <h1>ASA Antwerpen</h1>
       <p>Asian Student Association - Antwerpen</p>
       <button 
         className="hamburger-button" 
